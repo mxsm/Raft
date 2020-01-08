@@ -1,4 +1,4 @@
-package com.github.mxsm;
+package com.github.mxsm.raft;
 
 import static org.junit.Assert.assertTrue;
 
